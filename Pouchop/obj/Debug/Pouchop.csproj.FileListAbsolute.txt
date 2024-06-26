@@ -1,0 +1,6 @@
+C:\Users\pouch\Documents\GitHub\Pouchcode\Pouchop\bin\Debug\Pouchop.dll
+C:\Users\pouch\Documents\GitHub\Pouchcode\Pouchop\bin\Debug\Pouchop.pdb
+C:\Users\pouch\Documents\GitHub\Pouchcode\Pouchop\obj\Debug\Pouchop.csproj.AssemblyReference.cache
+C:\Users\pouch\Documents\GitHub\Pouchcode\Pouchop\obj\Debug\Pouchop.csproj.CoreCompileInputs.cache
+C:\Users\pouch\Documents\GitHub\Pouchcode\Pouchop\obj\Debug\Pouchop.dll
+C:\Users\pouch\Documents\GitHub\Pouchcode\Pouchop\obj\Debug\Pouchop.pdb

@@ -1,2 +1,0 @@
-C:\Users\pouch\Downloads\Pouchop\PouchopPlugin\obj\Debug\PouchopPlugin.csproj.AssemblyReference.cache
-C:\Users\pouch\Downloads\Pouchop\PouchopPlugin\obj\Debug\PouchopPlugin.csproj.CoreCompileInputs.cache

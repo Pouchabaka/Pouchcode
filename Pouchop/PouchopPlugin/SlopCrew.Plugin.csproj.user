@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Project>
-  <PropertyGroup>
-    <BRCPath>D:\Jeux Steam\steamapps\common\BombRushCyberfunk</BRCPath>
-    <ManagedPath>$(BRCPath)/Bomb Rush Cyberfunk_Data/Managed</ManagedPath>
-  </PropertyGroup>
-</Project>
